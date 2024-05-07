@@ -38,22 +38,7 @@ das ist gewollt so du musst selber überlgen wie du das angehen sollst!**
 
 * Beispiel Bankklasse (das ist meine verwendete Klasse, du kannst diese Klasse als Leitfaden benutzen aber du kannst auch gerne eine eigen erstellen) : 
 
-@startuml
-class Bank {
--name: string
--location: string
--accounts: Account[]
--employees: Employee[]
-+Bank(name: string, location: string)
-+addAccount(account: Account): void
-+removeAccount(accountNumber: string): void
-+getAccount(accountNumber: string): Account
-+getAllAccounts(): Account[]
-+addEmployee(employee: Employee): void
-+removeEmployee(employeeId: string): void
-+getAllEmployees(): Employee[]
-}
-@enduml
+![bank.png](bank.png)
 
 
 
