@@ -1,0 +1,60 @@
+[
+  {
+    "customers": [
+      {
+        "name": "Michael",
+        "accounts": [
+          {
+            "account_number": "1234",
+            "balance": 640
+          },
+          {
+            "account_number": "1235",
+            "balance": 380
+          }
+        ]
+      },
+      {
+        "name": "Sarah",
+        "accounts": [
+          {
+            "account_number": "2222",
+            "balance": 550
+          }
+        ]
+      },
+      {
+        "name": "John",
+        "accounts": [
+          {
+            "account_number": "1111",
+            "balance": 380
+          }
+        ]
+      },
+      {
+        "name": "Patrick",
+        "accounts": [
+          {
+            "account_number": "3333",
+            "balance": 400
+          }
+        ]
+      }
+    ],
+    "employees": [
+      {
+        "name": "Frank",
+        "position": "Financial Director"
+      },
+      {
+        "name": "Lena",
+        "position": "Customer Service"
+      },
+      {
+        "name": "Andreas",
+        "position": "Facility Manager"
+      }
+    ]
+  }
+]
