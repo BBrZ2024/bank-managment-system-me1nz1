@@ -1,53 +1,61 @@
-[
-  {
-    "customers": [
-      {
-        "name": "Michael",
-        "accounts": [
-          {
-            "account_number": "1234",
-            "balance": 140
-          },
-          {
-            "account_number": "1235",
-            "balance": 380
-          }
-        ]
-      },
-      {
-        "name": "Sarah",
-        "accounts": [
-          {
-            "account_number": "2222",
-            "balance": 200
-          }
-        ]
-      },
-      {
-        "name": "John",
-        "accounts": [
-          {
-            "account_number": "1111",
-            "balance": 330
-          }
-        ]
-      },
-      {
-        "name": "Patrick",
-        "accounts": [
-          {
-            "account_number": "7186",
-            "balance": 400
-          }
-        ]
-      }
-    ],
-
-    "employees": [
-      {
-        "name": "Admin",
-        "position": "Manager"
-      }
-    ]
-  }
-]
+{
+  "customers": [
+    {
+      "name": "Michael",
+      "accounts": [
+        {
+          "account_number": "1234",
+          "balance": 140
+        },
+        {
+          "account_number": "1235",
+          "balance": 380
+        }
+      ]
+    },
+    {
+      "name": "Sarah",
+      "accounts": [
+        {
+          "account_number": "2222",
+          "balance": 250
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "accounts": [
+        {
+          "account_number": "1111",
+          "balance": 330
+        }
+      ]
+    },
+    {
+      "name": "Patrick",
+      "accounts": [
+        {
+          "account_number": "7186",
+          "balance": 400
+        }
+      ]
+    }
+  ],
+  "employees": [
+    {
+      "name": "Frank",
+      "position": "Financial Director",
+      "salary": 400000
+    },
+    {
+      "name": "Andreas",
+      "position": "Facility Manager",
+      "salary": 35000
+    },
+    {
+      "name": "Lena",
+      "position": "Customer Service",
+      "salary": 30000
+    }
+  ]
+}
